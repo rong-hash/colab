@@ -3,6 +3,10 @@ Created by Itai Lang, Asaf Manor and Shai Avidan from Tel Aviv University.
 
 ![teaser](https://github.com/itailang/SampleNet/blob/master/doc/teaser.png)
 
+## Reworker
+
+[Zhirong Chen](https://rong-hash.github.io)
+
 ## Introduction
 This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.03663). Please read it for more information. You are also welcome to watch the [oral talk](https://youtu.be/wOKlqnJ0XcE) from CVPR 2020.
 
